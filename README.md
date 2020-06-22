@@ -1,2 +1,2 @@
 # whatsappAutomate
-Whats message automation python script.
+WhatsApp message automation python script.
